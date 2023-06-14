@@ -118,7 +118,7 @@ void Roulette::execute() {
 	string repick = "y";
 	string file_route;
 
-	cout << "=== ·ê·¿ ===\nmade by dapin1490 on C++\n\n";
+	cout << "=== ·ê·¿ ===\nmade by dapin1490\ngithub: https://github.com/dapin1490/roulette_exe\n\n";
 
 	// ·ê·¿ ÀÔ·Â ¹æ½Ä ¼±ÅÃ
 	cout << "# ·ê·¿ ÀÔ·Â ¹æ½Ä ¼±ÅÃ\n";
