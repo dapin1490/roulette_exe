@@ -116,7 +116,7 @@ class RouletteApp(QWidget):
 
         # 기타 구성
         self.setWindowTitle('roulette')  # 창 제목
-        self.setWindowIcon(QIcon('fabicon/ms-icon-310x310.png'))  # 창 아이콘 지정
+        self.setWindowIcon(QIcon('favicon/ms-icon-310x310.png'))  # 창 아이콘 지정
         self.resize(900, 600)  # 위젯 크기 지정
         self.center()  # 창이 화면 가운데 생성됨
         self.setMouseTracking(True)
